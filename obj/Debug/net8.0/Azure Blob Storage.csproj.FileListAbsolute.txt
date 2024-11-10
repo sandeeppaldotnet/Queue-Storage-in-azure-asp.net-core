@@ -1,0 +1,68 @@
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\appsettings.Development.json
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\appsettings.json
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure Blob Storage.staticwebassets.runtime.json
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure Blob Storage.exe
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure Blob Storage.deps.json
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure Blob Storage.runtimeconfig.json
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure Blob Storage.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure Blob Storage.pdb
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure.Core.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure.Identity.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure.Storage.Common.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\System.ClientModel.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\System.IO.Hashing.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\System.Memory.Data.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.csproj.AssemblyReference.cache
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.GeneratedMSBuildEditorConfig.editorconfig
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.AssemblyInfoInputs.cache
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.AssemblyInfo.cs
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.csproj.CoreCompileInputs.cache
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.MvcApplicationPartsAssemblyInfo.cache
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.RazorAssemblyInfo.cache
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.RazorAssemblyInfo.cs
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets.build.json
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets.development.json
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets\msbuild.Azure Blob Storage.Microsoft.AspNetCore.StaticWebAssets.props
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets\msbuild.build.Azure Blob Storage.props
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Azure Blob Storage.props
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Azure Blob Storage.props
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\staticwebassets.pack.json
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\scopedcss\bundle\Azure Blob Storage.styles.css
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\scopedcss\projectbundle\Azure Blob Storage.bundle.scp.css
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Bl.876D961A.Up2Date
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.dll
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\refint\Azure Blob Storage.dll
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.pdb
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.genruntimeconfig.cache
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\ref\Azure Blob Storage.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Azure.Storage.Queues.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Hosting.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventLog.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Logging.EventSource.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+G:\azure\Azure Blob Storage\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+G:\azure\Azure Blob Storage\obj\Debug\net8.0\Azure Blob Storage.sourcelink.json
